@@ -1,6 +1,18 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        //test for the film method ✅
+        //Film film = new Film(1, "Manga", 2021, "Dr ZigZeug");
+        //film.serializeToJsonFile("film.json");
+
+
+        //test for the user method ✅
+        //User user = new User("mbaye.laye14018@gmail.com", "ZigZeug", "2002-08-31", new Abonnement());
+        //user.writeJsonToFile("user.json");
+
+
+
+
     }
 }
 
